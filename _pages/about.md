@@ -19,6 +19,7 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree with the College of Communication Engineering, Jilin University, Changchun, China. I received the B.Eng. degree from Jilin University in 2022. In 2024, I was a Visiting Ph.D. Student with the Faculty of Information Technology, University of Jyväskylä, Jyväskylä, Finland. My research interests include Internet of Things (IoT), unmanned aerial vehicle (UAV) communications, mobile edge computing, resource allocation, data collection, and deep reinforcement learning, with a particular focus on efficient and secure information transmission in IoT and sensor networks. For more information about my publications and citations, please visit my <a href="https://scholar.google.com/citations?user=aNDxNlwAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat">
+</a>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
