@@ -64,6 +64,155 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
   </div>
 </div>
 
+## Publications
+
+
+<!-- ==================== Paper 1 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCOM 2026</div>
+<img src='images/500x300.png' alt="paper1" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[NOMA-Enabled Covert and Fair Data Collection for Multi-UAV Wireless Network Under Imperfect CSI](https://ieeexplore.ieee.org/document/11493499)
+
+**Menglong Cheng**, Juan Li, Chaoxiong Ye, Byungjin Cho, Zheng Chang
+
+*IEEE Transactions on Communications*, 2026.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 2 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TVT 2026</div>
+<img src='images/500x300.png' alt="paper2" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)
+
+Juan Li, Quanzhou Leng, **Menglong Cheng**
+
+*IEEE Transactions on Vehicular Technology*, 2026.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 3 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IoTJ 2026</div>
+<img src='images/500x300.png' alt="paper3" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
+
+Juan Li, T. Jiang, **Menglong Cheng**
+
+*IEEE Internet of Things Journal*, 2026.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 4 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCOM 2025</div>
+<img src='images/500x300.png' alt="paper4" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Joint 3D Flight Optimization and Resource Allocation for Data Collection and Processing in UAV-Assisted Mobile Edge Computing](https://ieeexplore.ieee.org/document/11053842)
+
+**Menglong Cheng**, Juan Li, Chaoxiong Ye, Zheng Chang, Shahid Mumtaz
+
+*IEEE Transactions on Communications*, 2025.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 5 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Water Research 2024</div>
+<img src='images/500x300.png' alt="paper5" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Graph Laplace Regularization-based Pressure Sensor Placement Strategy for Leak Localization in the Water Distribution Networks Under Joint Hydraulic and Topological Feature Spaces](https://doi.org/10.1016/j.watres.2024.121666)
+
+**Menglong Cheng**, Juan Li, Chunyue Wang, Chaoxiong Ye, Zheng Chang
+
+*Water Research*, vol. 257, 121666, 2024.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 6 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Water Research 2023</div>
+<img src='images/500x300.png' alt="paper6" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Optimal Sensor Placement for Leak Location in Water Distribution Networks: A Feature Selection Method Combined With Graph Signal Processing](https://doi.org/10.1016/j.watres.2023.120313)
+
+**Menglong Cheng**, Juan Li
+
+*Water Research*, vol. 242, 120313, 2023.
+
+</div>
+</div>
+
+
+<!-- ==================== Paper 7 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">JCP 2023</div>
+<img src='images/500x300.png' alt="paper7" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
+
+Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
+
+*Journal of Cleaner Production*, vol. 426, 139175, 2023.
+
+</div>
+</div>
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
