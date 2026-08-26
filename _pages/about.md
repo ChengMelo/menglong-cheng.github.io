@@ -137,6 +137,26 @@ Juan Li, Quanzhou Leng, **Menglong Cheng**
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">JCP 2023</div>
+<img src='images/500x300.png' alt="paper7" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
+
+Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
+
+*Journal of Cleaner Production*, vol. 426, 139175, 2023.
+
+</div>
+</div>
+
+<!-- ==================== Paper 7 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">Water Research 2023</div>
 <img src='images/500x300.png' alt="paper6" width="100%">
 </div>
@@ -153,26 +173,6 @@ Juan Li, Quanzhou Leng, **Menglong Cheng**
 </div>
 </div>
 
-
-<!-- ==================== Paper 7 ==================== -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">JCP 2023</div>
-<img src='images/500x300.png' alt="paper7" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
-
-Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
-
-*Journal of Cleaner Production*, vol. 426, 139175, 2023.
-
-</div>
-</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
