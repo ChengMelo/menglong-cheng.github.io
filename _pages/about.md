@@ -55,7 +55,8 @@ Juan Li, T. Jiang, **Menglong Cheng**
 <div class='paper-box-image'>
 <div>
 <div class="badge">TCOM 2026</div>
-<img src='images/500x300.png' alt="paper1" width="100%">
+<img src='images/TCOM2.png' alt="paper2" 
+  style="width: 100%; height: 180px; object-fit: cover;">
 </div>
 </div>
 
@@ -96,7 +97,8 @@ Juan Li, Quanzhou Leng, **Menglong Cheng**
 <div class='paper-box-image'>
 <div>
 <div class="badge">TCOM 2025</div>
-<img src='images/500x300.png' alt="paper4" width="100%">
+<img src='images/TCOM1.png' alt="paper4"
+     style="width: 100%; height: 180px; object-fit: cover;">
 </div>
 </div>
 
