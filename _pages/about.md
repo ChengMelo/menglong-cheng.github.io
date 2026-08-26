@@ -33,8 +33,8 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 <div class='paper-box-image'>
 <div>
 <div class="badge">TCOM 2026</div>
-<img src='images/TCOM2.png' alt="paper2" 
-  style="width: 100%; height: 180px; object-fit: cover;">
+<img src='images/TCOM2.png' alt="paper2"
+     style="width: 260px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
 </div>
 </div>
 
@@ -56,7 +56,7 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 <div>
 <div class="badge">TCOM 2025</div>
 <img src='images/TCOM1.png' alt="paper4"
-     style="width: 100%; height: 180px; object-fit: cover;">
+     style="width: 260px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
 </div>
 </div>
 
@@ -78,7 +78,7 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 <div>
 <div class="badge">Water Research 2024</div>
 <img src='images/WR2.png' alt="paper5"
-     style="width: 100%; height: 180px; object-fit: cover;">
+     style="width: 260px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
 </div>
 </div>
 
@@ -100,7 +100,7 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 <div>
 <div class="badge">Water Research 2023</div>
 <img src='images/WR1.png' alt="paper7"
-     style="width: 100%; height: 180px; object-fit: cover;">
+     style="width: 260px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
 </div>
 </div>
 
