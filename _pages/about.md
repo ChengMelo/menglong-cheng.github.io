@@ -27,45 +27,6 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 
 # 📝 Publications 
 
-<!-- 第一篇论文 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TCOM</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-[NOMA-Enabled Covert and Fair Data Collection for Multi-UAV Wireless Network Under Imperfect CSI](https://ieeexplore.ieee.org/document/11493499)
-
-**Menglong Cheng**, Juan Li, Chaoxiong Ye, Byungjin Cho, Zheng Chang
-
-  </div>
-</div>
-
-
-<!-- 第二篇论文 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2016</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-  </div>
-</div>
-
-## Publications
-
 
 <!-- ==================== Paper 1 ==================== -->
 <div class='paper-box'>
