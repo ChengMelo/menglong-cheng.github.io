@@ -28,28 +28,6 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 # 📝 Publications 
 
 
-<!-- ==================== Paper 1 ==================== -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">IoTJ 2026</div>
-<img src='images/500x300.png' alt="paper3" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
-
-Juan Li, T. Jiang, **Menglong Cheng**
-
-*IEEE Internet of Things Journal*, 2026.
-
-</div>
-</div>
-
-
-
 <!-- ==================== Paper 2 ==================== -->
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -71,26 +49,6 @@ Juan Li, T. Jiang, **Menglong Cheng**
 </div>
 </div>
 
-
-<!-- ==================== Paper 3 ==================== -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">TVT 2026</div>
-<img src='images/500x300.png' alt="paper2" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)
-
-Juan Li, Quanzhou Leng, **Menglong Cheng**
-
-*IEEE Transactions on Vehicular Technology*, 2026.
-
-</div>
-</div>
 
 <!-- ==================== Paper 4 ==================== -->
 <div class='paper-box'>
@@ -150,7 +108,7 @@ Juan Li, Quanzhou Leng, **Menglong Cheng**
 
 [Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
 
-Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
+Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 
 *Journal of Cleaner Production*, vol. 426, 139175, 2023.
 
@@ -177,7 +135,27 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
 
 </div>
 </div>
+## Others
 
+<!-- ==================== Paper 1 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<div class="badge">IoTJ 2026</div>
+[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
+Juan Li, T. Jiang, **Menglong Cheng**
+*IEEE Internet of Things Journal*, 2026.
+</div>
+</div>
+
+<!-- ==================== Paper 3 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<div class="badge">TVT 2026</div>
+[Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)
+Juan Li, Quanzhou Leng, **Menglong Cheng**
+*IEEE Transactions on Vehicular Technology*, 2026.
+</div>
+</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
