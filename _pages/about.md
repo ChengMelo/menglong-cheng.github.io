@@ -158,7 +158,7 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng**
 <div class='paper-box-image'>
 <div>
 <div class="badge">Water Research 2023</div>
-<img src='images/500x300.png' alt="paper6" width="100%">
+<img src='images/WR1.png' alt="paper6" width="100%">
 </div>
 </div>
 
