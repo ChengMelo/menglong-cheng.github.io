@@ -116,25 +116,13 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 </div>
 ## Others
 
-<!-- ==================== Paper 1 ==================== -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">Water Research 2024</div>
-</div>
-</div>
-
-[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
-Juan Li, T. Jiang, **Menglong Cheng**
-*IEEE Internet of Things Journal*, 2026.
-</div>
-</div>
-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 <div class="badge" style="position: static !important; display: block; width: fit-content; margin-bottom: 8px;">IoTJ 2026</div>
 [Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
+  
 Juan Li, T. Jiang, **Menglong Cheng**
+
 *IEEE Internet of Things Journal*, 2026.
 </div>
 </div>
@@ -142,9 +130,11 @@ Juan Li, T. Jiang, **Menglong Cheng**
 <!-- ==================== Paper 3 ==================== -->
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-<div class="badge">TVT 2026</div>
+<div class="badge" style="position: static !important; display: block; width: fit-content; margin-bottom: 8px;">TVT 2026</div>
 [Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)
+  
 Juan Li, Quanzhou Leng, **Menglong Cheng**
+
 *IEEE Transactions on Vehicular Technology*, 2026.
 </div>
 </div>
@@ -153,9 +143,11 @@ Juan Li, Quanzhou Leng, **Menglong Cheng**
 <!-- ==================== Paper 6 ==================== -->
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-<div class="badge">JCP 2023</div>
+<div class="badge" style="position: static !important; display: block; width: fit-content; margin-bottom: 8px;">JCP 2023</div>
 [Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
+
 Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
+
 *Journal of Cleaner Production*, vol. 426, 139175, 2023.
 </div>
 </div>
