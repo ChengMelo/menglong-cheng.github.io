@@ -130,6 +130,15 @@ Juan Li, T. Jiang, **Menglong Cheng**
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<div class="badge" style="position: static !important; display: block; width: fit-content; margin-bottom: 8px;">IoTJ 2026</div>
+[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
+Juan Li, T. Jiang, **Menglong Cheng**
+*IEEE Internet of Things Journal*, 2026.
+</div>
+</div>
+
 <!-- ==================== Paper 3 ==================== -->
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
