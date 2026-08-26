@@ -118,8 +118,12 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 
 <!-- ==================== Paper 1 ==================== -->
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-<div class="badge">IoTJ 2026</div>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Water Research 2024</div>
+</div>
+</div>
+
 [Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)
 Juan Li, T. Jiang, **Menglong Cheng**
 *IEEE Internet of Things Journal*, 2026.
