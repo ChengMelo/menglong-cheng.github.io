@@ -94,27 +94,6 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 </div>
 
 
-<!-- ==================== Paper 6 ==================== -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">JCP 2023</div>
-<img src='images/500x300.png' alt="paper6"
-     style="width: 100%; height: 180px; object-fit: cover;">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
-
-Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
-
-*Journal of Cleaner Production*, vol. 426, 139175, 2023.
-
-</div>
-</div>
-
 <!-- ==================== Paper 7 ==================== -->
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -154,6 +133,17 @@ Juan Li, T. Jiang, **Menglong Cheng**
 [Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)
 Juan Li, Quanzhou Leng, **Menglong Cheng**
 *IEEE Transactions on Vehicular Technology*, 2026.
+</div>
+</div>
+
+
+<!-- ==================== Paper 6 ==================== -->
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<div class="badge">JCP 2023</div>
+[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)
+Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
+*Journal of Cleaner Production*, vol. 426, 139175, 2023.
 </div>
 </div>
 
