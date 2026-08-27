@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat">
 </a>
 
-# 📖 Educations
+# 📖 Education
 
 - *2022.09 - now*, **Ph.D. in Information and Communication Engineering**, Jilin University, China.
 
