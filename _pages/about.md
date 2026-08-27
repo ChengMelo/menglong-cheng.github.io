@@ -169,9 +169,20 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+1. **Young Elite Scientists Sponsorship Program by CAST – First Cohort of Sponsored Ph.D. Students** (中国科协青年人才托举工程首批托举博士生), 2025–2026.
+
+2. **National Scholarship for Ph.D. Students** (博士研究生国家奖学金), 2024–2025.
+
+3. **Outstanding Graduate Student, Jilin University** (吉林大学优秀研究生), 2023–2024, 2024–2025.
+
+4. **Academic Performance Scholarship** (学术业绩奖学金), 2024–2025.
+
+5. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
+
+6. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
+
+7. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
