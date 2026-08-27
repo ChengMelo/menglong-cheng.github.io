@@ -174,19 +174,32 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 
 2. **National Scholarship for Ph.D. Students** (博士研究生国家奖学金), 2024–2025.
 
-3. **Outstanding Graduate Student, Jilin University** (吉林大学优秀研究生), 2023–2024, 2024–2025.
+3. **China FAW Ph.D. Student Scholarship** (中国一汽博士研究生奖学金), 2024–2025.
 
-4. **Academic Performance Scholarship** (学术业绩奖学金), 2024–2025.
+4. **Outstanding Graduate Student, Jilin University** (吉林大学优秀研究生), 2023–2024, 2024–2025.
 
-5. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
+5. **Academic Performance Scholarship** (学术业绩奖学金), 2024–2025.
 
-6. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
+6. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
 
-7. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
+7. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
+
+8. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
 
 # 💬 Professional Activities
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📝 Journal Reviewer
+
+- *IEEE Transactions on Communications*
+
+- *IEEE Transactions on Cognitive Communications and Networking*
+
+- *IEEE Internet of Things Journal*
+
+- *IEEE Transactions on Machine Learning in Communications and Networking*
+
+- *China Communications*(中国通信)
+
+- *Water Research*
 
 # 💻 Projects
 - *2025.01 - 2026.12*, **Research on UAV-Collaboration-Based Intelligent Monitoring and Optimization Strategies for the Internet of Things**, Jilin Provincial Department of Education Project (JJKH20250113BS), **Project Leader**.
