@@ -168,6 +168,14 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📖 Education
+
+- *2022.09 - now*, **Ph.D. in Information and Communication Engineering**, Jilin University, China.
+
+- *2023.12 - 2024.12*, **Joint Ph.D. Training in Information Technology**, University of Jyväskylä, Finland.
+
+- *2018.09 - 2022.06*, **B.Eng. in Communication Engineering**, Jilin University, China.
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
