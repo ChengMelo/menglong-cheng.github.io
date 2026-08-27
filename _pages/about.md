@@ -160,14 +160,6 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 </div>
 </div>
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 
 1. **Young Elite Scientists Sponsorship Program by CAST – First Cohort of Sponsored Ph.D. Students** (中国科协青年人才托举工程首批托举博士生), 2025–2026.
@@ -187,7 +179,7 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 8. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
 
 # 💬 Professional Activities
-# 📝 Journal Reviewer
+## Journal Reviewer
 
 - *IEEE Transactions on Communications*
 
