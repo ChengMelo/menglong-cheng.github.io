@@ -184,9 +184,11 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 
 7. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
 
-# 💬 Invited Talks
+# 💬 Professional Activities
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Projects
+- *2025.01 - 2026.12*, **Research on UAV-Collaboration-Based Intelligent Monitoring and Optimization Strategies for the Internet of Things**, Jilin Provincial Department of Education Project (JJKH20250113BS), **Project Leader**.
+
+- *2023.01 - 2025.08*, **Research on Intelligent Diagnosis Technologies for Water Distribution Networks Based on Multi-Source Information Fusion**, Jilin Provincial Department of Science and Technology Project (20230201068GX), **Key Participant and Proposal Writer**.
