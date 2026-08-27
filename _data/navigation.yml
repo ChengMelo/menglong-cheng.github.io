@@ -3,19 +3,19 @@ main:
     url: "#about-me"
 
   - title: "Education"
-    url: "#education"
+    url: "#-education"
 
   - title: "News"
-    url: "#news"
+    url: "#-news"
 
   - title: "Publications"
-    url: "#publications"
+    url: "#-publications"
 
   - title: "Honors and Awards"
-    url: "#honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "Professional Activities"
-    url: "#professional-activities"
+    url: "#-professional-activities"
 
   - title: "Projects"
-    url: "#projects"
+    url: "#-projects"
