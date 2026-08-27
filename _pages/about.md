@@ -172,11 +172,13 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 
 5. **Academic Performance Scholarship** (学术业绩奖学金), 2024–2025.
 
-6. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
+6. **Selected for the Innovative Talent International Cooperation Training Program of the China Scholarship Council (CSC)** (入选国家留学基金委创新型人才国际合作培养项目), 2023.
 
-7. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
+7. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
 
-8. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
+8. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
+
+9. **Outstanding Student of the College** (院优秀学生), 2019–2020, 2020–2021.
 
 # 💬 Professional Activities
 ## Journal Reviewer
