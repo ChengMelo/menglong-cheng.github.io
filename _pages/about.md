@@ -185,7 +185,7 @@ Juan Li, Wenjun Zheng, Chunyue Wang, **Menglong Cheng***
 
 6. **Selected for the Innovative Talent International Cooperation Training Program of the China Scholarship Council (CSC)** (入选国家留学基金委创新型人才国际合作培养项目), 2023.
 
-7. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024.
+7. **Academic Scholarship** (学业奖学金), 2022–2023, 2023–2024, 2024–2025, 2025–2026.
 
 8. **National Encouragement Scholarship** (国家励志奖学金), 2019–2020, 2020–2021.
 
