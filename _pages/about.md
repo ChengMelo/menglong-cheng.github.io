@@ -30,8 +30,19 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 - *2018.09 - 2022.06*, **B.Eng. in Communication Engineering**, Jilin University, China.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.08*: &nbsp;🎉 Our paper "[NOMA-Enabled Covert and Fair Data Collection for Multi-UAV Wireless Network Under Imperfect CSI](https://ieeexplore.ieee.org/document/11493499)" has been published in **IEEE Transactions on Communications (TCOM)**.
+
+- *2026.07*: &nbsp;🎉 Our paper "[Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)" has been published in **IEEE Transactions on Vehicular Technology (TVT)**.
+
+- *2026*: &nbsp;🎉 Our paper "[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)" has been published in **IEEE Internet of Things Journal (IoTJ)**.
+
+- *2025.11*: &nbsp;🎉 Our paper "[Joint 3D Flight Optimization and Resource Allocation for Data Collection and Processing in UAV-Assisted Mobile Edge Computing](https://ieeexplore.ieee.org/document/11053842)" has been published in **IEEE Transactions on Communications (TCOM)**.
+
+- *2024.06*: &nbsp;🎉 Our paper "[Graph Laplace Regularization-based Pressure Sensor Placement Strategy for Leak Localization in the Water Distribution Networks Under Joint Hydraulic and Topological Feature Spaces](https://doi.org/10.1016/j.watres.2024.121666)" has been published in **Water Research**.
+
+- *2023.11*: &nbsp;🎉 Our paper "[Optimal Sensor Placement for Leak Location in Water Distribution Networks Based on EGAE Clustering Algorithm](https://doi.org/10.1016/j.jclepro.2023.139175)" has been published in **Journal of Cleaner Production**.
+
+- *2023.08*: &nbsp;🎉 Our paper "[Optimal Sensor Placement for Leak Location in Water Distribution Networks: A Feature Selection Method Combined With Graph Signal Processing](https://doi.org/10.1016/j.watres.2023.120313)" has been published in **Water Research**.
 
 # 📝 Publications 
 
