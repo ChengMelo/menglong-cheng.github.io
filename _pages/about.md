@@ -30,11 +30,11 @@ I am currently pursuing the Ph.D. degree with the College of Communication Engin
 - *2018.09 - 2022.06*, **B.Eng. in Communication Engineering**, Jilin University, China.
 
 # 🔥 News
+- *2026*: &nbsp;🎉 Our paper "[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)" has been accepted by **IEEE Internet of Things Journal (IoTJ)**.
+
 - *2026.08*: &nbsp;🎉 Our paper "[NOMA-Enabled Covert and Fair Data Collection for Multi-UAV Wireless Network Under Imperfect CSI](https://ieeexplore.ieee.org/document/11493499)" has been published in **IEEE Transactions on Communications (TCOM)**.
 
 - *2026.07*: &nbsp;🎉 Our paper "[Resource Allocation in NOMA-V2X Networks With Multi-Agent Parameterized Action Space Reinforcement Learning](https://ieeexplore.ieee.org/document/11373895)" has been published in **IEEE Transactions on Vehicular Technology (TVT)**.
-
-- *2026*: &nbsp;🎉 Our paper "[Bilevel Online Learning for Max-Min Fair Control in UAV-Enabled Wireless-Powered Communication Networks](https://scholar.google.com/scholar?q=%22Bilevel+Online+Learning+for+Max-Min+Fair+Control+in+UAV-Enabled+Wireless-Powered+Communication+Networks%22)" has been published in **IEEE Internet of Things Journal (IoTJ)**.
 
 - *2025.11*: &nbsp;🎉 Our paper "[Joint 3D Flight Optimization and Resource Allocation for Data Collection and Processing in UAV-Assisted Mobile Edge Computing](https://ieeexplore.ieee.org/document/11053842)" has been published in **IEEE Transactions on Communications (TCOM)**.
 
